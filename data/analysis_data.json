@@ -1,0 +1,610 @@
+{
+ "funnel": {
+  "data_raw": 8000,
+  "data_null": 7081,
+  "data_dist": 7058,
+  "data_wp": 6813,
+  "data_final": 495,
+  "game_raw": 5000,
+  "game_null": 4425,
+  "game_dist": 4425,
+  "game_wp": 4279,
+  "game_final": 1116,
+  "op_raw": 5000,
+  "op_null": 4432,
+  "op_dist": 4400,
+  "op_wp": 4252,
+  "op_final": 1195
+ },
+ "city": {
+  "data": {
+   "广州": 176,
+   "北京": 67,
+   "深圳": 135,
+   "上海": 117
+  },
+  "game": {
+   "上海": 321,
+   "广州": 336,
+   "深圳": 318,
+   "北京": 141
+  },
+  "operator": {
+   "深圳": 356,
+   "广州": 397,
+   "北京": 146,
+   "上海": 296
+  }
+ },
+ "ctype": {
+  "data": [
+   {
+    "type": "民营公司",
+    "count": 381,
+    "avg_salary": 11792.380263
+   },
+   {
+    "type": "国企",
+    "count": 16,
+    "avg_salary": 8906.25
+   },
+   {
+    "type": "合资",
+    "count": 38,
+    "avg_salary": 11418.552632
+   },
+   {
+    "type": "上市公司",
+    "count": 24,
+    "avg_salary": 11159.375
+   },
+   {
+    "type": "外资（非欧美）",
+    "count": 18,
+    "avg_salary": 10083.333333
+   },
+   {
+    "type": "外资（欧美）",
+    "count": 9,
+    "avg_salary": 10305.555556
+   },
+   {
+    "type": "创业公司",
+    "count": 9,
+    "avg_salary": 12666.666667
+   }
+  ],
+  "game": [
+   {
+    "type": "民营公司",
+    "count": 845,
+    "avg_salary": 11201.151659
+   },
+   {
+    "type": "合资",
+    "count": 58,
+    "avg_salary": 10047.413793
+   },
+   {
+    "type": "外企代表处",
+    "count": 2,
+    "avg_salary": 10750.0
+   },
+   {
+    "type": "上市公司",
+    "count": 80,
+    "avg_salary": 11464.873418
+   },
+   {
+    "type": "外资（非欧美）",
+    "count": 39,
+    "avg_salary": 11275.641026
+   },
+   {
+    "type": "外资（欧美）",
+    "count": 24,
+    "avg_salary": 11495.9375
+   },
+   {
+    "type": "国企",
+    "count": 43,
+    "avg_salary": 13152.380952
+   },
+   {
+    "type": "创业公司",
+    "count": 23,
+    "avg_salary": 14677.282609
+   },
+   {
+    "type": "事业单位",
+    "count": 1,
+    "avg_salary": 8000.0
+   },
+   {
+    "type": "非营利组织",
+    "count": 1,
+    "avg_salary": 11500.0
+   }
+  ],
+  "operator": [
+   {
+    "type": "上市公司",
+    "count": 85,
+    "avg_salary": 12517.647059
+   },
+   {
+    "type": "民营公司",
+    "count": 894,
+    "avg_salary": 11476.29204
+   },
+   {
+    "type": "外资（非欧美）",
+    "count": 52,
+    "avg_salary": 10666.607843
+   },
+   {
+    "type": "外资（欧美）",
+    "count": 29,
+    "avg_salary": 11387.931034
+   },
+   {
+    "type": "合资",
+    "count": 71,
+    "avg_salary": 10701.795775
+   },
+   {
+    "type": "国企",
+    "count": 43,
+    "avg_salary": 12020.930233
+   },
+   {
+    "type": "创业公司",
+    "count": 18,
+    "avg_salary": 11323.75
+   },
+   {
+    "type": "事业单位",
+    "count": 3,
+    "avg_salary": 13250.0
+   }
+  ]
+ },
+ "workyear": {
+  "data": {
+   "1": 12838.9875,
+   "3": 12002.873134,
+   "4": 12580.294118,
+   "5": 10942.457983,
+   "6": 10814.393939,
+   "7": 9152.083333,
+   "8": 7000.0,
+   "10": 10337.209302
+  },
+  "game": {
+   "1": 11185.252809,
+   "3": 10951.112167,
+   "4": 11443.188889,
+   "5": 11275.668403,
+   "6": 11730.273109,
+   "7": 11934.782609,
+   "8": 10750.0,
+   "10": 11614.196809
+  },
+  "operator": {
+   "1": 11252.771084,
+   "3": 11390.70598,
+   "4": 11730.358607,
+   "5": 11407.271903,
+   "6": 11029.353448,
+   "7": 11216.666667,
+   "8": 13101.388889,
+   "10": 12142.365591
+  }
+ },
+ "workyear_count": {
+  "data": {
+   "5": 119,
+   "3": 134,
+   "1": 40,
+   "6": 66,
+   "4": 85,
+   "10": 44,
+   "7": 6,
+   "8": 1
+  },
+  "game": {
+   "4": 225,
+   "3": 264,
+   "5": 288,
+   "6": 120,
+   "10": 94,
+   "1": 89,
+   "8": 13,
+   "7": 23
+  },
+  "operator": {
+   "3": 301,
+   "10": 93,
+   "5": 332,
+   "1": 83,
+   "4": 245,
+   "6": 117,
+   "7": 15,
+   "8": 9
+  }
+ },
+ "skills_all": [
+  {
+   "skill": "电商",
+   "data": 331,
+   "game": 56,
+   "operator": 20
+  },
+  {
+   "skill": "LR",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "神策",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "聚类",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "GBDT",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "SAS",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "NLP",
+   "data": 1,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "HTML",
+   "data": 0,
+   "game": 5,
+   "operator": 0
+  },
+  {
+   "skill": "SHELL",
+   "data": 0,
+   "game": 0,
+   "operator": 777
+  },
+  {
+   "skill": "CAFFE",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "金融",
+   "data": 41,
+   "game": 22,
+   "operator": 9
+  },
+  {
+   "skill": "TENSORFLOW",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "报表",
+   "data": 270,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "C语言",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "HBASE",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "模型设计",
+   "data": 278,
+   "game": 0,
+   "operator": 1
+  },
+  {
+   "skill": "MAPREDUCE",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "NODEJS",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "LINUX",
+   "data": 1,
+   "game": 1,
+   "operator": 806
+  },
+  {
+   "skill": "STORM",
+   "data": 0,
+   "game": 1,
+   "operator": 0
+  },
+  {
+   "skill": "SQL",
+   "data": 315,
+   "game": 1,
+   "operator": 755
+  },
+  {
+   "skill": "CONGOS",
+   "data": 1,
+   "game": 1,
+   "operator": 0
+  },
+  {
+   "skill": "决策树",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "PYTHON",
+   "data": 316,
+   "game": 8,
+   "operator": 787
+  },
+  {
+   "skill": "IMPALA",
+   "data": 0,
+   "game": 0,
+   "operator": 1
+  },
+  {
+   "skill": "EXCEL",
+   "data": 315,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "SUPERSET",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "ORACLE",
+   "data": 0,
+   "game": 0,
+   "operator": 8
+  },
+  {
+   "skill": "HIGHCHARTS",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "KETTLE",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "算法",
+   "data": 14,
+   "game": 11,
+   "operator": 3
+  },
+  {
+   "skill": "大数据",
+   "data": 347,
+   "game": 6,
+   "operator": 78
+  },
+  {
+   "skill": "数据挖掘",
+   "data": 8,
+   "game": 1,
+   "operator": 0
+  },
+  {
+   "skill": "风控",
+   "data": 4,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "KAFKA",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "SPSS",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "PPT",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "DATASTAGE",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "WORD",
+   "data": 0,
+   "game": 1,
+   "operator": 0
+  },
+  {
+   "skill": "PRESTO",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "RUBY",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "R语言",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "FLUME",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "FLINK",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "BI",
+   "data": 313,
+   "game": 5,
+   "operator": 15
+  },
+  {
+   "skill": "POSTGESQL",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "SPARK",
+   "data": 323,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "可视化",
+   "data": 307,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "SCALA",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "HIVE",
+   "data": 323,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "ETL",
+   "data": 423,
+   "game": 1,
+   "operator": 13
+  },
+  {
+   "skill": "HQL",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "D3",
+   "data": 0,
+   "game": 2,
+   "operator": 0
+  },
+  {
+   "skill": "POWERPOINT",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "ECHARTS",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "回归",
+   "data": 1,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "ABTEST",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "MYSQL",
+   "data": 0,
+   "game": 1,
+   "operator": 755
+  },
+  {
+   "skill": "机器学习",
+   "data": 291,
+   "game": 1,
+   "operator": 12
+  },
+  {
+   "skill": "TABLEAU",
+   "data": 307,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "SQL SERVER",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  },
+  {
+   "skill": "数据结构",
+   "data": 0,
+   "game": 0,
+   "operator": 0
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# 解压还原出的原始数据（勿入库，保持分块形式）
+/recruitment.sql
+/recruitment.sql.gz
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
